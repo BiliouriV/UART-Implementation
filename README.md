@@ -1,4 +1,4 @@
-# UART-Implementation
+# UART Implementation
 
 by Viktoria Biliouri
 
